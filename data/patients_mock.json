@@ -1,0 +1,28 @@
+{
+  "patients": [
+    {
+      "id": "12345",
+      "name": "Carlos Silva",
+      "age": 45,
+      "history": "Hipertenso há 5 anos, uso regular de Losartana.",
+      "pending_exams": ["Hemograma Completo", "Eletrocardiograma"],
+      "last_visit": "2023-10-15"
+    },
+    {
+      "id": "67890",
+      "name": "Ana Souza",
+      "age": 32,
+      "history": "Sem comorbidades conhecidas. Queixa de dor abdominal difusa.",
+      "pending_exams": [],
+      "last_visit": "2024-01-20"
+    },
+    {
+      "id": "55555",
+      "name": "Roberto Justo",
+      "age": 60,
+      "history": "Diabético tipo 2, controle irregular.",
+      "pending_exams": ["Glicemia de Jejum", "Hemoglobina Glicada"],
+      "last_visit": "2024-02-01"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "instruction": "Qual é o protocolo inicial para suspeita de Sepse no Hospital Tech Challenge?",
+    "input": "",
+    "output": "PROTOCOLO INTERNO - SEPSE: 1. Coletar lactato arterial e hemoculturas imediatamente. 2. Administrar antibióticos de amplo espectro na primeira hora. 3. Iniciar reposição volêmica com cristaloides 30ml/kg se houver hipotensão. Fonte: Diretriz de Infectologia 2025."
+  },
+  {
+    "instruction": "Como devo prescrever Dipirona para dor leve em adultos sem alergia?",
+    "input": "",
+    "output": "MODELO DE RECEITA PADRÃO: Dipirona Sódica 500mg --- Tomar 1 comprimido por via oral a cada 6 horas se houver dor. Evitar uso prolongado sem reavaliação médica."
+  },
+  {
+    "instruction": "O sistema está indicando exames pendentes. Qual a conduta?",
+    "input": "",
+    "output": "NORMA DE SEGURANÇA: Se o sistema identificar exames pendentes críticos, o médico assistente NÃO deve dar alta ao paciente sem antes justificar no prontuário ou aguardar o resultado."
+  },
+  {
+    "instruction": "Quais são os horários de visita na UTI?",
+    "input": "",
+    "output": "ADMINISTRATIVO: As visitas na UTI ocorrem diariamente das 11:00 às 12:00 e das 16:00 às 17:00, permitida a entrada de apenas 1 visitante por vez."
+  },
+  {
+    "instruction": "Paciente com glicemia acima de 400 mg/dL na triagem. O que fazer?",
+    "input": "",
+    "output": "PROTOCOLO DE EMERGÊNCIA - HIPERGLICEMIA: 1. Realizar hidratação venosa vigorosa. 2. Solicitar gasometria arterial e cetonemia. 3. Iniciar protocolo de insulina regular em bomba de infusão contínua apenas após potássio sérico > 3.3 mEq/L."
+  }
+]
